@@ -860,6 +860,7 @@ header > .container {
   align-items: center;
   text-align: center;
   padding: 10px 28px;
+  cursor: pointer;
 
   color: var(--white-text-color);
   font-weight: 700;
