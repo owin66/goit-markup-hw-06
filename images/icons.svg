@@ -85,5 +85,8 @@
 <symbol id="icon-Border" viewBox="0 0 34 32">
 <path d="M30.348 3.553v24.894h-26.554v-24.894h26.554zM30.348-0.004h-26.554c-2.087 0-3.794 1.6-3.794 3.557v24.894c0 1.957 1.707 3.557 3.794 3.557h26.554c2.087 0 3.794-1.6 3.794-3.557v-24.894c0-1.957-1.707-3.557-3.794-3.557z"></path>
 </symbol>
+<symbol id="icon-checkbox" viewBox="0 0 42 32">
+<path fill="#fff" style="fill: var(--color1, #fff); stroke: var(--color1, #fff)" stroke="#fff" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.64" d="M6.268 15.206l-0.221-0.211-0.221 0.208-3.088 2.927 0.243 0.234 11.418 10.89 0.221-0.211 24.278-23.16-0.243-0.231-3.046-2.905-0.221 0.211-20.989 20.005-8.132-7.757z"></path>
+</symbol>
 </defs>
 </svg>
