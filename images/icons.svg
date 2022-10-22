@@ -88,5 +88,8 @@
 <symbol id="icon-checkbox" viewBox="0 0 42 32">
 <path fill="#fff" style="fill: var(--color1, #fff); stroke: var(--color1, #fff)" stroke="#fff" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.64" d="M6.268 15.206l-0.221-0.211-0.221 0.208-3.088 2.927 0.243 0.234 11.418 10.89 0.221-0.211 24.278-23.16-0.243-0.231-3.046-2.905-0.221 0.211-20.989 20.005-8.132-7.757z"></path>
 </symbol>
+<symbol id="icon-icon-send" viewBox="0 0 32 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M32.021 0l-32.021 18.012 10.233 3.789 15.784-14.796-12.005 16.197 0.009 0.003-0.012-0.003v8.819l5.738-6.695 7.271 2.692 5.002-28.018z"></path>
+</symbol>
 </defs>
 </svg>
