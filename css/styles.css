@@ -705,7 +705,7 @@ header > .container {
 .form-field {
   display: flex;
   flex-direction: column;
-  margin-bottom: 28px;
+  margin-bottom: 10px;
 }
 .form-field:last-child {
   margin-bottom: 20px;
